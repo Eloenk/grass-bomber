@@ -1,0 +1,6 @@
+aiohttp==3.8.1
+loguru==0.5.3
+websockets==10.4
+fake-useragent==0.1.11
+requests==2.26.0
+websockets-proxy==1.1.0
